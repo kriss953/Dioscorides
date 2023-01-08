@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    {{ partial "meta.html" . }}
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    {{ partial "css.html" . }}
+  </head>
+  <body>
+    {{ if ne .Site.Params.preloader false }}
+    <!-- Preloader -->
+    <div id="preloader">
+      <div id="status"></div>
+    </div>
+    {{ end }}
+
+    {{ block "main" . }}
+    {{ partial "navbar.html" . }}
+    {{ partial "navbar-clone.html" . }}
+    <section class="section is-medium">
+      <!-- <div class="sidebar-section">
+        <input id="search-query" placeholder="Search" />
+      </div>
+      <div id="search-results" style="display:none;"></div>
+      <div id="sidebars">
+          ...
+      </div> -->
+
+
+        <div class="container">
+          <div class="columns">
+            <div class="column is-centered-tablet-portrait">
+              <h1 class="title section-title">{{ .Title }}</h1>
+              <h5 class="subtitle is-5 is-muted">{{ .Params.Subtitle }}</h5>
+              <div class="divider"></div>
+            </div>
+          </div>
+      
+          <div class="content" >
+            {{ .Content }}
+            <ul class="posts flat" style="margin-left: 0px !important;">
+              {{- range .Data.Pages }}  
+                {{- if (in .Site.Params.excludedTypes .Type) }}
+                {{- else }}
+                <li class="post">
+                    <div class="post-header">
+                        <div class="thumbnail-container">
+                            <a class="thumbnail" href="{{ .RelPermalink }}">
+                              <img src="{{ .Params.thumbnail }}" alt="">
+                            </a>
+                        </div>
+                        <div class="meta-text">
+                          <div class="matter">
+                              <article>
+                                  <h3 class="title"><a href="{{ .RelPermalink }}">{{.Title}}</a></h3>
+                                  <div class="meta">
+                                    <div class="date">
+                                        <span class="day">{{ dateFormat "02" .Date }}</span>
+                                        <span class="rest">{{ if $.Site.Data.month }}{{ index $.Site.Data.month (printf "%d" .Date.Month) }} {{ .Date.Year }}{{ else }}{{ dateFormat "Jan 2006" .Date }}{{ end }}</span>
+                                    </div>
+                                  </div>
+                          
+                                  <span class="description">{{ if isset .Params "description" }}{{ .Description }}{{ else }}{{ .Plain  | htmlUnescape | safeHTML | truncate 140 }}{{ end }}</span>
+                                  <button class="post-btn"><a href="{{ .RelPermalink }}">Read More</a></button>
+                              </article>
+                          </div>
+                        </div>
+                    </div>
+            </li>
+            {{- end }}
+            {{- end }}
+            </ul>
+                    
+          </div>
+        </div>
+        {{ if .Site.Params.sidebar }}
+        <input
+          id="search"
+          class="form-control"
+          type="text"
+          aria-label="Case-insensitive search by title, content, or publish date"
+          placeholder="Disabled ..."
+          disabled>
+        <div id="search_form">
+          <div class="form-check">
+            <input id="enable_search" class="form-check-input" type="checkbox">
+            <label class="form-check-label" for="enable_search">
+              Enable search
+            </label>
+          </div>
+          <div class="form-check">
+            <input id="regex_mode" class="form-check-input" type="checkbox">
+            <label class="form-check-label" for="regex_mode">
+              Regex mode
+            </label>
+          </div>
+        </div>
+        {{ end }}
+        <p id="count">
+          Count: {{ len .Pages }}
+        </p>
+        <ul id="list" style="color: f39200;">
+        </ul>
+      </section>
+      
+
+
+
+
+    
+    {{ if .Params.include_footer }}
+    {{ partial "footer.html" . }}
+    {{ end }}
+
+    <!-- Back To Top Button -->
+    <div id="backtotop"><a href="#"></a></div>
+
+    {{ if .Params.sidebar }}
+    {{ partial "single/sidebar.html" . }}
+    {{ end }}
+
+    {{ end }}
+
+    <script src="/js/search.js"></script>
+    
+    {{ partial "javascript.html" . }}
+  </body>
+</html>

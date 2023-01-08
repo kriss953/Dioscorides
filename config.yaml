@@ -5,8 +5,17 @@ baseURL: 'http://example.org/'
 
 
 languageCode: en-us
-title: Dioscorides Herbs
+title: Dioscorides | Herbs
 theme: hugo-fresh
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  search: true
+  search_minify: false
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
 disableKinds:
@@ -54,10 +63,10 @@ params:
     # - gutwork
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: Products
-    url: /
+  # - title: Products
+  #   url: /
   - title: Blog
-    url: /
+    url: /blog/
   # - title: Dropdown
   #   sublinks:
   #   - title: Dropdown item
@@ -76,15 +85,15 @@ params:
     logo: logo-sm.png
     sections:
     - title: Featured Articles
-      # icon: 
+      icon: newspaper-o
       links:
-      - text: Article 1
-        url: /blog/first
-      - text: Article 2
+      - text: First Blog Post
+        url: /blog/first/
+      - text: Second Blog Post
         url: /blog/second/
-      # - text: Article 3
-      #   url: /blog/third/
-    # - title: Messages
+    #   - text: Article 3
+    #     url: /blog/third/
+    # # - title: Messages
     #   icon: envelope
     #   links:
     #   - text: Inbox
@@ -131,35 +140,35 @@ params:
     - title: Powerful and unified interface
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
       # Icon (from /images/illustrations/icons/___.svg)
-      icon: laptop-globe
+      icon: plant.png
     - title: Cross-device synchronisation
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-      icon: doc-sync
+      icon: plant.png
     - title: Nomad system
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-      icon: mobile-feed
-  section3:
-    title: One platform
-    subtitle: To rule them all
-    image: illustrations/mockups/app-mockup.png
-    buttonText: Get started
-    buttonLink: "#"
-  section4:
-    title: Our Clients love us!
-    subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
-    clients:
-    - name: Irma Walters
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Accountant
-      img: 1
-    - name: John Bradley
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Financial Analyst
-      img: 2
-    - name: Gary Blackman
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: HR Manager
-      img: 3
+      icon: plant.png
+  # section3:
+  #   title: One platform
+  #   subtitle: To rule them all
+  #   image: homepage/dioscoride-preparation.jpg
+  #   buttonText: Get started
+  #   buttonLink: "#"
+  # section4:
+  #   title: Our Clients love us!
+  #   subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+  #   clients:
+  #   - name: Irma Walters
+  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+  #     job: Accountant
+  #     img: 1
+  #   - name: John Bradley
+  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+  #     job: Financial Analyst
+  #     img: 2
+  #   - name: Gary Blackman
+  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+  #     job: HR Manager
+  #     img: 3
   section5: true
   footer:
     # Logo (from /images/logos/___)

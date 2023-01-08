@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    {{ partial "meta.html" . }}
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    {{ partial "css.html" . }}
+  </head>
+  <body>
+    {{ if ne .Site.Params.preloader false }}
+    <!-- Preloader -->
+    <div id="preloader">
+      <div id="status"></div>
+    </div>
+    {{ end }}
+
+    {{ block "main" . }}
+    {{ partial "navbar.html" . }}
+    {{ partial "navbar-clone.html" . }}
+    <section class="section is-medium">
+        <div class="container">
+          <div class="columns">
+            <div class="column is-centered-tablet-portrait">
+              <h1 class="title section-title">{{ .Title }}</h1>
+              <h5 class="subtitle is-5 is-muted">{{ .Params.Subtitle }}</h5>
+              <div class="divider"></div>
+            </div>
+          </div>
+      
+          <div class="content">
+            {{ .Content }}
+            <ul class="posts flat">
+                {{- range .Data.Pages }}
+                {{- if (in .Site.Params.excludedTypes .Type) }}
+                {{- else }}
+                <li class="post">
+                    <div class="post-header">
+                        <div class="meta">
+                            <div class="date">
+                                <span class="day">{{ dateFormat "02" .Date }}</span>
+                                <span class="rest">{{ if $.Site.Data.month }}{{ index $.Site.Data.month (printf "%d" .Date.Month) }} {{ .Date.Year }}{{ else }}{{ dateFormat "Jan 2006" .Date }}{{ end }}</span>
+                            </div>
+                        </div>
+                        <div class="matter">
+                            <article>
+                                <h3 class="title small"><a href="{{ .RelPermalink }}">{{.Title}}</a></h3>
+                                {{- if not .Params.hidemeta }}
+                                <p class="post-meta">
+                                </p>
+                                {{- end }}
+                                <span class="description">{{ if isset .Params "description" }}{{ .Description }}{{ else }}{{ .Plain  | htmlUnescape | safeHTML | truncate 140 }}{{ end }}</span>
+                            </article>
+                        </div>
+                    </div>
+            </li>
+            {{- end }}
+            {{- end }}
+            </ul>
+                    
+          </div>
+        </div>
+      </section>
+      
+
+
+
+
+    
+    {{ if .Params.include_footer }}
+    {{ partial "footer.html" . }}
+    {{ end }}
+
+    <!-- Back To Top Button -->
+    <div id="backtotop"><a href="#"></a></div>
+
+    {{ if .Params.sidebar }}
+    {{ partial "single/sidebar.html" . }}
+    {{ end }}
+
+    {{ end }}
+    <script src="/js/search.js"></script>
+    
+    {{ partial "javascript.html" . }}
+  </body>
+</html>
