@@ -1,6 +1,6 @@
 ---
 title: "Donate"
-sidebar: true
+sidebar: false
 sidebarlogo: logo-sm.png
 include_footer: true
 ---

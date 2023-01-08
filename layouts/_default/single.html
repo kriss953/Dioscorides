@@ -72,7 +72,7 @@
                     
           </div>
         </div>
-        {{ if .Site.Params.sidebar }}
+        {{ if .Params.search }}
         <input
           id="search"
           class="form-control"
@@ -94,10 +94,10 @@
             </label>
           </div>
         </div>
-        {{ end }}
         <p id="count">
           Count: {{ len .Pages }}
         </p>
+        {{ end }}
         <ul id="list" style="color: f39200;">
         </ul>
       </section>

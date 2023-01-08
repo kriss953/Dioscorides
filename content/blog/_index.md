@@ -11,7 +11,7 @@ sidebar:
         url: /blog/second/
 sidebarlogo: logo-sm.png
 include_footer: true
-# search: true
+search: true
 ---
 
 #### Read our latest blog posts.
