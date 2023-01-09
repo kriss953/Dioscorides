@@ -1,16 +1,13 @@
 ---
-label: Blog post
+label: Post
 hide_body: false
 fields:
 - type: text
   name: title
   label: title
-- type: boolean
-  name: sidebar
-  label: sidebar
-- type: file
-  name: sidebarlogo
-  label: sidebarlogo
+- type: datetime
+  name: date
+  label: date
 - type: boolean
   name: include_footer
   label: include_footer

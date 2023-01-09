@@ -1,219 +1,83 @@
-baseURL: 'http://example.org/'
-# languageCode: 'en-us'
-# title: 'My New Hugo Site'
-# theme: 'hugo-fresh'
-
-
+---
+baseURL: http://example.org/
 languageCode: en-us
 title: Dioscorides | Herbs
 theme: hugo-fresh
 outputs:
   home:
-    - HTML
-    - RSS
-    - JSON
-
+  - HTML
+  - RSS
+  - JSON
 params:
-  search: true
-  search_minify: false
-googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
-# Disables warnings
-disableKinds:
-- taxonomy
-- taxonomyTerm
-markup:
-  goldmark:
-    renderer:
-      unsafe: true # Allows you to write raw html in your md files
-
-params:
-  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
-  # Used as meta data; describe your site to make Google Bots happy
-  description:
-  # Preloader ensures images are loaded before displaying to the user. If you don't want it uncomment to set it to false
-  # preloader: false
+  description: 
   navbarlogo:
-  # Logo (from static/images/logos/___)
     image: logos/logo-lg.png
-    link: /
-    # Default width/height. Uncomment if you need to change
+    link: "/"
     width: 112
     height: 112
   font:
-    name: "Open Sans"
-    sizes: [400,600]
+    name: Open Sans
+    sizes:
+    - 400
+    - 600
   hero:
-    # Main hero title
     title: Our mission
-    # Hero subtitle (optional)
-    subtitle: is to promote the use of natural products that are effective in preserving and improving health and well-being, as well as in combating aging and health conditions. 
-    # Button text
+    subtitle: is to promote the use of natural products that are effective in preserving
+      and improving health and well-being, as well as in combating aging and health
+      conditions.
     buttontext: Explore
-    # Where the main hero button links to
     buttonlink: "#section1"
-    # Hero image (from static/images/___)
     image: homepage/dioscorides-home-page.jpg
-    # Footer logos (from static/images/logos/clients/___.svg)
-    # clientlogos:
-    # - systek
-    # - tribe
-    # - kromo
-    # - infinite
-    # - gutwork
-  # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  # - title: Products
-  #   url: /
   - title: Blog
-    url: /blog/
+    url: "/blog/"
   - title: About Dioscoride
-    url: /about/
-  # - title: Dropdown
-  #   sublinks:
-  #   - title: Dropdown item
-  #     url: /
-  #   - title: Dropdown item
-  #     url: /
-  #   - title: Dropdown item
-  #     url: /
+    url: "/about/"
   - title: Contact
-    url: /#section5
+    url: "/#section5"
   - title: Donate Us
-    url: /donate/
+    url: "/donate/"
     button: true
   sidebar:
-    # Logo (from /images/logos/___.svg)
     logo: logo-sm.png
     sections:
     - title: Featured Articles
       icon: newspaper-o
       links:
       - text: First Blog Post
-        url: /blog/first/
+        url: "/blog/first/"
       - text: Second Blog Post
-        url: /blog/second/
-    #   - text: Article 3
-    #     url: /blog/third/
-    # # - title: Messages
-    #   icon: envelope
-    #   links:
-    #   - text: Inbox
-    #     url: /
-    #   - text: Compose
-    #     url: /
-    # - title: Images
-    #   icon: image
-    #   links:
-    #   - text: Library
-    #     url: /
-    #   - text: Upload
-    #     url: /
-    # - title: Settings
-    #   icon: cog
-    #   links:
-    #   - text: User settings
-    #     url: /
-    #   - text: App settings
-    #     url: /
+        url: "/blog/second/"
   section1:
     title: Our goal
-    subtitle: is to inform about ancient natural herbal remedies, reviewed from a modern perspective in light of new discoveries in pharmacology and the molecular mechanisms of the active ingredients contained in plants.
-  #   tiles:
-  #   - title: Benefit 1
-  #     icon: herb.png
-  #     text: This is some explanatory text that is on two rows
-  #     url: /
-  #     buttonText: Free trial
-  #   - title: Benefit 2
-  #     icon: herb.png
-  #     text: This is some explanatory text that is on two rows
-  #     url: /
-  #     buttonText: Get started
-  #   - title: Benefit 3
-  #     icon: herb.png
-  #     text: This is some explanatory text that is on two rows
-  #     url: /
-  #     buttonText: Get started
-  # section2:
-  #   title: You're here because you want the best
-  #   subtitle: And we know it
-  #   features:
-  #   - title: Powerful and unified interface
-  #     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-  #     # Icon (from /images/illustrations/icons/___.svg)
-  #     icon: plant.png
-  #   - title: Cross-device synchronisation
-  #     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-  #     icon: plant.png
-  #   - title: Nomad system
-  #     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-  #     icon: plant.png
-  # section3:
-  #   title: One platform
-  #   subtitle: To rule them all
-  #   image: homepage/dioscoride-preparation.jpg
-  #   buttonText: Get started
-  #   buttonLink: "#"
-  # section4:
-  #   title: Our Clients love us!
-  #   subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
-  #   clients:
-  #   - name: Irma Walters
-  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-  #     job: Accountant
-  #     img: 1
-  #   - name: John Bradley
-  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-  #     job: Financial Analyst
-  #     img: 2
-  #   - name: Gary Blackman
-  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-  #     job: HR Manager
-  #     img: 3
+    subtitle: is to inform about ancient natural herbal remedies, reviewed from a
+      modern perspective in light of new discoveries in pharmacology and the molecular
+      mechanisms of the active ingredients contained in plants.
   section5: true
   footer:
-    # Logo (from /images/logos/___)
     logo: logo-lg.png
-    # Social Media Title
-    # socialmediatitle: Follow Us
-    # Social media links (GitHub, Twitter, etc.). All are optional.
-    # socialmedia:
-    # - link: https://github.com/lucperkins/github-fresh
-      # Icons are from Font Awesome
-    #   icon: github
-    # - link: https://dribbble.com/#
-    #   icon: dribbble
-    # - link: https://facebook.com/#
-    #   icon: facebook
-    # - link: https://twitter.com/lucperkins
-    #   icon: twitter
-    # - link: https://bitbucket.org/#
-    #   icon: bitbucket
     bulmalogo: true
     quicklinks:
       column1:
-        title: "Blog"
+        title: Blog
         links:
         - text: First Blog Article
-          link: /blog/first/
+          link: "/blog/first/"
         - text: First Blog Article
-          link: /blog/second/
-      # column2:
-      #   title: "Docs"
-      #   links:
-      #   - text: Get started
-      #     link: /
-      #   - text: User guides
-      #     link: /
-      #   - text: Admin guide
-      #     link: /
-      #   - text: Developers
-      #     link: /
+          link: "/blog/second/"
       column3:
-        title: "Legal"
+        title: Legal
         links:
         - text: Disclaimer
-          link: /disclaimer
+          link: "/disclaimer"
         - text: Privacy Policy
-          link: /privacy-policy
+          link: "/privacy-policy"
+googleAnalytics: 
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
