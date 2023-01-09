@@ -32,7 +32,7 @@ params:
   navbar:
   - title: Blog
     url: "/blog/"
-  - title: About Dioscoride
+  - title: About Dioscorides
     url: "/about/"
   - title: Contact
     url: "/#section5"
