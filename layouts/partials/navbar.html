@@ -56,20 +56,20 @@
           {{- range $navbar }}
           {{- if .sublinks }}
           <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link">
+            <a class="navbar-link" aria-label="navigation link">
               {{ .title }}
             </a>
 
             <div class="navbar-dropdown">
               {{- range .sublinks }}
-              <a href="{{ .url }}" class="navbar-item">
+              <a href="{{ .url }}" class="navbar-item" aria-label="navigation sublink">
                 {{ .title }}
               </a>
               {{- end }}
             </div>
           </div>
           {{- else if .button }}
-          <a href="{{ .url }}" class="navbar-item">
+          <a href="{{ .url }}" class="navbar-item" aria-label="navigation button">
             <span class="button signup-button rounded secondary-btn raised">
               {{ .title }}
             </span>
