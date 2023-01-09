@@ -1,5 +1,6 @@
 ---
 title: Dioscorides approach
+date: 2023-01-08T19:25:10+05:00
 sidebar: true
 sidebarlogo: logo-sm.png
 include_footer: true
