@@ -1,0 +1,25 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: boolean
+  name: sidebar
+  label: sidebar
+- type: file
+  name: sidebarlogo
+  label: sidebarlogo
+- type: boolean
+  name: include_footer
+  label: include_footer
+- type: file
+  name: thumbnail
+  label: thumbnail
+- type: textarea
+  name: description
+  label: description
