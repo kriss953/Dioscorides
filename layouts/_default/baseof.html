@@ -4,6 +4,7 @@
     {{ partial "meta.html" . }}
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
     {{ partial "css.html" . }}
+    
   </head>
   <body>
     {{ if ne .Site.Params.preloader false }}
@@ -18,6 +19,7 @@
 
     <!-- Back To Top Button -->
     <div id="backtotop"><a href="#"></a></div>
+    {{ partial "copyright.html" . }}
 
     {{ if .Site.Params.sidebar }}
     {{ partial "sidebar.html" . }}

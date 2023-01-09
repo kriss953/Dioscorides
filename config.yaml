@@ -67,7 +67,7 @@ params:
   #   url: /
   - title: Blog
     url: /blog/
-  - title: About Us
+  - title: About Dioscoride
     url: /about/
   # - title: Dropdown
   #   sublinks:
@@ -117,38 +117,38 @@ params:
     #   - text: App settings
     #     url: /
   section1:
-    title: Great power comes
-    subtitle: with great responsibility
-    tiles:
-    - title: Benefit 1
-      icon: herb.png
-      text: This is some explanatory text that is on two rows
-      url: /
-      buttonText: Free trial
-    - title: Benefit 2
-      icon: herb.png
-      text: This is some explanatory text that is on two rows
-      url: /
-      buttonText: Get started
-    - title: Benefit 3
-      icon: herb.png
-      text: This is some explanatory text that is on two rows
-      url: /
-      buttonText: Get started
-  section2:
-    title: You're here because you want the best
-    subtitle: And we know it
-    features:
-    - title: Powerful and unified interface
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-      # Icon (from /images/illustrations/icons/___.svg)
-      icon: plant.png
-    - title: Cross-device synchronisation
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-      icon: plant.png
-    - title: Nomad system
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-      icon: plant.png
+    title: Our goal
+    subtitle: is to inform about ancient natural herbal remedies, reviewed from a modern perspective in light of new discoveries in pharmacology and the molecular mechanisms of the active ingredients contained in plants.
+  #   tiles:
+  #   - title: Benefit 1
+  #     icon: herb.png
+  #     text: This is some explanatory text that is on two rows
+  #     url: /
+  #     buttonText: Free trial
+  #   - title: Benefit 2
+  #     icon: herb.png
+  #     text: This is some explanatory text that is on two rows
+  #     url: /
+  #     buttonText: Get started
+  #   - title: Benefit 3
+  #     icon: herb.png
+  #     text: This is some explanatory text that is on two rows
+  #     url: /
+  #     buttonText: Get started
+  # section2:
+  #   title: You're here because you want the best
+  #   subtitle: And we know it
+  #   features:
+  #   - title: Powerful and unified interface
+  #     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+  #     # Icon (from /images/illustrations/icons/___.svg)
+  #     icon: plant.png
+  #   - title: Cross-device synchronisation
+  #     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+  #     icon: plant.png
+  #   - title: Nomad system
+  #     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+  #     icon: plant.png
   # section3:
   #   title: One platform
   #   subtitle: To rule them all
@@ -176,35 +176,29 @@ params:
     # Logo (from /images/logos/___)
     logo: logo-lg.png
     # Social Media Title
-    socialmediatitle: Follow Us
+    # socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
-    socialmedia:
-    - link: https://github.com/lucperkins/github-fresh
+    # socialmedia:
+    # - link: https://github.com/lucperkins/github-fresh
       # Icons are from Font Awesome
-      icon: github
-    - link: https://dribbble.com/#
-      icon: dribbble
-    - link: https://facebook.com/#
-      icon: facebook
-    - link: https://twitter.com/lucperkins
-      icon: twitter
-    - link: https://bitbucket.org/#
-      icon: bitbucket
+    #   icon: github
+    # - link: https://dribbble.com/#
+    #   icon: dribbble
+    # - link: https://facebook.com/#
+    #   icon: facebook
+    # - link: https://twitter.com/lucperkins
+    #   icon: twitter
+    # - link: https://bitbucket.org/#
+    #   icon: bitbucket
     bulmalogo: true
     quicklinks:
       column1:
-        title: "Product"
+        title: "Blog"
         links:
-        - text: Discover Products
-          link: /
-        - text: Why choose our product?
-          link: /
-        - text: Compare Herbs
-          link: /
-        # - text: Our roadmap
-        #   link: /
-        - text: Disclaimer
-          link: /disclaimer
+        - text: First Blog Article
+          link: /blog/first/
+        - text: First Blog Article
+          link: /blog/second/
       # column2:
       #   title: "Docs"
       #   links:
@@ -217,9 +211,9 @@ params:
       #   - text: Developers
       #     link: /
       column3:
-        title: "Blog"
+        title: "Legal"
         links:
-        - text: First Blog Article
-          link: /blog/first
-        - text: Second Blog Article
-          link: /blog/second
+        - text: Disclaimer
+          link: /disclaimer
+        - text: Privacy Policy
+          link: /privacy-policy

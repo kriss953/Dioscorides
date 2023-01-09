@@ -1,5 +1,5 @@
 ---
-title: Dioscoride preparation
+title: Dioscorides approach
 sidebar: true
 sidebarlogo: logo-sm.png
 include_footer: true

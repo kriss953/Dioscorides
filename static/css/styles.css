@@ -72,6 +72,12 @@
 
 }
 
+
+.copy-footer{
+    text-align: center;
+    background-color: #f39200;
+    color: #fff;
+}
 @media (max-width: 768px) {
     .post-header {
         display: block;

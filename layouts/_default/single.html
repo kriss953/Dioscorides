@@ -4,6 +4,100 @@
     {{ partial "meta.html" . }}
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
     {{ partial "css.html" . }}
+    <style>
+      #search {
+    margin-top: 30px;
+    width: 100%;
+    border: 3px solid #f39200;
+    /* border-right: none; */
+    padding: 5px;
+    height: 40px;
+    border-radius: 5px;
+    outline: none;
+    color: #9DBFAF
+}
+#list li a{
+    color: #f39200 !important;
+}
+.post {
+    list-style-type: none;
+}
+
+.post-header {
+    display: flex;
+}
+
+.meta-text {
+    padding: 0 12px;
+}
+.thumbnail-container {
+    border-radius: 20px;
+    width: 30%;
+}
+.thumbnail img {
+    border-radius: 8px;
+}
+.meta-text {
+    width: 70%;
+}
+
+.title {
+    font-size: 30px !important;
+    color: #f39200 !important;
+}
+.title a{
+    font-size: 30px !important;
+    color: #f39200 !important;
+}
+.date {
+    color: #f39200;
+}
+.description {
+    margin: 12px 0;
+    font-size: 18px !important;
+}
+.post-btn {
+    all: unset;
+    display: block;
+    border: #f39200 solid 2px;
+    padding: 4px 12px;
+    margin: 12px 0;
+}
+.post-btn:hover {
+    border: none;
+    background-color: #f39200;
+    color: white ;
+    border: #f39200 solid 2px;
+    transition: 200ms ease-in;
+}
+.post-btn a {
+    color: #f39200 !important;
+
+}
+.post-btn:hover a {
+    color: #fff !important;
+
+}
+
+
+.copy-footer{
+    text-align: center;
+    background-color: #f39200;
+    color: #fff;
+}
+@media (max-width: 768px) {
+    .post-header {
+        display: block;
+    }
+    .thumbnail-container {
+        border-radius: 20px;
+        width: 100%;
+    }
+    .meta-text {
+        width: 100%;
+    }
+}
+    </style>
   </head>
   <body>
     {{ if ne .Site.Params.preloader false }}
