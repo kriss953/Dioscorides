@@ -9,12 +9,6 @@ fields:
   name: date
   label: date
 - type: boolean
-  name: sidebar
-  label: sidebar
-- type: file
-  name: sidebarlogo
-  label: sidebarlogo
-- type: boolean
   name: include_footer
   label: include_footer
 - type: file
