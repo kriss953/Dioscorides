@@ -1,6 +1,5 @@
 +++
 description = ""
-draft = true
 include_footer = true
 sidebar = false
 sidebarlogo = ""
