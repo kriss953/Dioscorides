@@ -6,6 +6,8 @@ thumbnail = "/uploads/dioscoride-mandrake.jpg"
 title = "Mandrake "
 
 +++
+![](/uploads/dioscoride-mandrake.jpg)
+
 Dioscorides gave a detailed description of the mandrake (Mandragora officinarum) and its pharmacological use as an anaesthetic.
 
 Mandrake is a well-known plant in ancient traditional medicine, referred to by various names meaning, for example, devil's apple, demon balls, circe plant, gallows man, etc. The humanoid root of the plant was considered a magical talisman and, over the centuries, the mandrake was endowed with a mystical aura; in fact, superstitions surrounding the harvesting of the plant said that the plant, when uprooted, would emit a horrible cry, which would be fatal to the harvester who heard it, causing death or madness. To avoid this dreadful fate, it was advisable to partially dig up the plant, leaving a few roots in the ground, or to have it uprooted by a dog that would then die. Unlike the sad fate of the collector, the mandrake would bring love and fertility to those who consumed it, again according to ancient myths, which also attributed aphrodisiac properties to the mandrake.
