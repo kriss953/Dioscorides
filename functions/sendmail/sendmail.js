@@ -1,6 +1,6 @@
 const client = require('@sendgrid/mail');
+const SENDGRID_API_KEY = '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'
 const {
-  SENDGRID_API_KEY,
   SENDGRID_TO_EMAIL,
   SENDGRID_FROM_EMAIL,
 } = process.env;
