@@ -1,6 +1,0 @@
-{{ if site.Params.search }}
-  {{ $searchJs := resources.Get "js/search.js"
-    | fingerprint
-    | minify }}
-  <script src="{{ $searchJs.RelPermalink }}" async></script>
-{{ end }}
