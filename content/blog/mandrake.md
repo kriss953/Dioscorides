@@ -3,7 +3,7 @@ date = 2023-01-14T23:00:00Z
 description = "Dioscorides gave a detailed description of the mandrake (Mandragora officinarum) and its pharmacological use as an anaes....."
 include_footer = true
 thumbnail = "/uploads/dioscoride-mandrake.jpg"
-title = "Mandrake "
+title = "Mandrake: from myth to reality  "
 
 +++
 ![](/uploads/dioscoride-mandrake.jpg)
