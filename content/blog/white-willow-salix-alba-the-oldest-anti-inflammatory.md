@@ -1,6 +1,7 @@
 +++
-date = 2023-01-20T23:00:00Z
+date = 2023-01-21T12:00:00Z
 description = "The use of white willow (Salix alba) in traditional Western medicine is traced back to Hippocrates, the famous ancient Greek physician who is considered the father of medicine..."
+draft = true
 include_footer = true
 thumbnail = "/uploads/dioscorides-salix.png"
 title = "White willow (Salix alba): the oldest anti-inflammatory"
