@@ -6,7 +6,6 @@ include_footer: true
 thumbnail: 
 description: 
 date: 2023-01-08T18:59:02.000+05:00
-draft: true
 
 ---
 ![](/uploads/portrait_of_dioscorides_from_de_materia_medica_cropped.jpg)
