@@ -59,13 +59,13 @@ params:
     logo: logo-lg.png
     bulmalogo: true
     quicklinks:
-      column1:
-        title: Blog
-        links:
-        - text: First Blog Article
-          link: "/blog/first/"
-        - text: First Blog Article
-          link: "/blog/second/"
+      # column1:
+      #   title: Blog
+      #   links:
+      #   - text: First Blog Article
+      #     link: "/blog/first/"
+      #   - text: First Blog Article
+      #     link: "/blog/second/"
       column3:
         title: Legal
         links:

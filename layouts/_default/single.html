@@ -4,6 +4,15 @@
     {{ partial "meta.html" . }}
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
     {{ partial "css.html" . }}
+    <style>
+      .hidden {
+        display: none;
+      }
+
+      .block {
+        display: block;
+      }
+    </style>
   </head>
   <body>
     {{ if ne .Site.Params.preloader false }}
@@ -37,6 +46,35 @@
       
           <div class="content" >
             {{ .Content }}
+            {{ if .Params.search }}
+            <i class="fa-solid fa-magnifying-glass" id="search-btn" style="display: block; cursor: pointer;float: right; color: #f39200; font-size: 24px; margin-bottom: 20px; margin-right: 10px;"></i>
+            <i class="fa-solid fa-xmark" id="search-btnx" style="display: none; cursor: pointer;float: right; color: #f39200; font-size: 24px; margin-bottom: 20px; margin-right: 10px;"></i>
+            <input style="margin-top: 0; display: none;"
+              id="search"
+              class="form-control"
+              type="text"
+              aria-label="Case-insensitive search by title, content, or publish date"
+              placeholder="Case-insensitive search by title, content, or publish date"
+              >
+            <div id="search_form" style="display: none;">
+              <div class="form-check">
+                <input id="enable_search" class="form-check-input" type="checkbox" >
+                <label class="form-check-label" for="enable_search">
+                  Enable search
+                </label>
+              </div>
+              <div class="form-check" style="display: none;">
+                <input id="regex_mode" class="form-check-input" type="checkbox">
+                <label class="form-check-label" for="regex_mode">
+                  Regex mode
+                </label>
+              </div>
+            </div>
+            <p id="count">
+            </p>
+            {{ end }}
+            <ul id="list" style="color: f39200;">
+            </ul>
             <ul class="posts flat" style="margin-left: 0px !important;">
               {{- range .Data.Pages }}  
                 {{- if (in .Site.Params.excludedTypes .Type) }}
@@ -72,34 +110,7 @@
                     
           </div>
         </div>
-        {{ if .Params.search }}
-        <input
-          id="search"
-          class="form-control"
-          type="text"
-          aria-label="Case-insensitive search by title, content, or publish date"
-          placeholder="Disabled ..."
-          disabled>
-        <div id="search_form">
-          <div class="form-check">
-            <input id="enable_search" class="form-check-input" type="checkbox">
-            <label class="form-check-label" for="enable_search">
-              Enable search
-            </label>
-          </div>
-          <div class="form-check">
-            <input id="regex_mode" class="form-check-input" type="checkbox">
-            <label class="form-check-label" for="regex_mode">
-              Regex mode
-            </label>
-          </div>
-        </div>
-        <p id="count">
-          Count: {{ len .Pages }}
-        </p>
-        {{ end }}
-        <ul id="list" style="color: f39200;">
-        </ul>
+        
       </section>
       
 
@@ -120,9 +131,12 @@
 
     {{ end }}
 
-    <script src="js/search.js"></script>
-    <script src="js/api.js"></script>
+    <!-- <script src="js/search.js"></script> -->
+
     
     {{ partial "javascript.html" . }}
+    <script>
+
+    </script>
   </body>
 </html>
