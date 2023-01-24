@@ -4,6 +4,7 @@ description = "Dioscorides gave a detailed description of the mandrake (Mandrago
 include_footer = true
 thumbnail = "/uploads/dioscoride-mandrake.jpg"
 title = "Mandrake: from myth to reality  "
+twitter-card = "https://www.dioscorides.org/uploads/dioscoride-mandrake.jpg"
 
 +++
 ![](/uploads/dioscoride-mandrake.jpg)
