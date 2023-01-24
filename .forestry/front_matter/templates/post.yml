@@ -20,7 +20,7 @@ fields:
 - name: twitterCard
   type: text
   config:
-    required: false
+    required: true
   label: twitterCard
 pages:
 - content/blog/mandrake.md
