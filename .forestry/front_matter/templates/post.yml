@@ -22,6 +22,9 @@ fields:
   config:
     required: true
   label: twitterCard
+  description: put the image links here for twitter card, "Image link" not image address.
+    (you can copy image link by opening that image in browser new tab). Let me know
+    if you don't understand this section. -Mudassir
 pages:
 - content/blog/mandrake.md
 - content/blog/white-willow-salix-alba-the-oldest-anti-inflammatory.md
