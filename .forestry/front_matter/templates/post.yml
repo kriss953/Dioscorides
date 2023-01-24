@@ -17,6 +17,11 @@ fields:
 - type: textarea
   name: description
   label: description
+- name: twitterCard
+  type: text
+  config:
+    required: false
+  label: twitterCard
 pages:
 - content/blog/mandrake.md
 - content/blog/white-willow-salix-alba-the-oldest-anti-inflammatory.md
