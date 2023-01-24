@@ -16,5 +16,5 @@ is to promote the use of natural products that are effective in preserving and i
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@yourtwitterhandle">
 <meta name="twitter:title" content="{{.Title}}">
-<meta name="twitter:description" content="{{ .Params.description }}">
+<meta name="twitter:description" content="{{ if isset .Params "description" }}{{ .Description }}{{ else }}{{ .Plain  | htmlUnescape | safeHTML | truncate 140 }}{{ end }}">
 <meta name="twitter:image" content="{{ .Params.twitterCard }}">

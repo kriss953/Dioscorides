@@ -4,7 +4,7 @@ description = "The use of white willow (Salix alba) in traditional Western medic
 include_footer = true
 thumbnail = "/uploads/dioscorides-salix.png"
 title = "White willow (Salix alba): the oldest anti-inflammatory"
-twitterCard = "https://www.dioscorides.org/uploads/dioscoride-mandrake.jpg"
+twitterCard = "https://www.dioscorides.org/uploads/dioscorides-salix.png"
 +++
 ![](/uploads/dioscorides-salix.png)
 
