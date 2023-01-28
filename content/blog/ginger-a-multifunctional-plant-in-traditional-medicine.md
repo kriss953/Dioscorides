@@ -4,7 +4,7 @@ description = "In his most important work of classical antiquity (De Materia Med
 include_footer = true
 thumbnail = "/uploads/zingiber.png"
 title = "Ginger: a multifunctional plant in traditional medicine "
-twitterCard = "https://www.dioscorides.org/images/blog/Ginger: a multifunctional plant in traditional medicine "
+twitterCard = "https://www.dioscorides.org/images/blog/Zingiber.png"
 
 +++
 In his most important work of classical antiquity (De Materia Medica), Dioscorides regarded **ginger** as a warming and **digestive plant**. Interestingly, these properties correspond quite well to those of the ginger rhizome in traditional Chinese medicine.
