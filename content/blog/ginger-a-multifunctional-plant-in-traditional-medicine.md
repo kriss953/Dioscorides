@@ -7,6 +7,8 @@ title = "Ginger: a multifunctional plant in traditional medicine "
 twitterCard = "https://www.dioscorides.org/uploads/zingiber.png"
 
 +++
+![](/uploads/zingiber.png)
+
 In his most important work of classical antiquity (De Materia Medica), Dioscorides regarded **ginger** as a warming and **digestive plant**. Interestingly, these properties correspond quite well to those of the ginger rhizome in traditional Chinese medicine.
 
 In De Materia Medica, Dioscorides noted that the root of the ginger plant was useful for treating various ailments, such as stomachache, dysentery, and constipation. He also wrote that ginger could be used to treat respiratory problems, such as coughs and shortness of breath, and as a remedy for **headaches** and fever.
