@@ -5,7 +5,7 @@ draft = true
 include_footer = true
 thumbnail = "/uploads/garlic-dioscoride-vienne.png"
 title = "Garlic (Allium sativum) in Traditional and Modern Medicine"
-twitterCard = "https://www.dioscorides.org/images/blog/*"
+twitterCard = "https://www.dioscorides.org/uploads/garlic-Dioscoride-Vienne.png"
 
 +++
 ![](/uploads/garlic-dioscoride-vienne.png)
