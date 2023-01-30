@@ -26,6 +26,7 @@ fields:
     know if you don't understand this section. -Mudassir
   default: https://www.dioscorides.org/images/blog/*
 pages:
+- content/blog/garlic-allium-sativum-in-traditional-and-modern-medicine.md
 - content/blog/ginger-a-multifunctional-plant-in-traditional-medicine.md
 - content/blog/mandrake.md
 - content/blog/white-willow-salix-alba-the-oldest-anti-inflammatory.md
