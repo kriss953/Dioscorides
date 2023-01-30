@@ -1,7 +1,6 @@
 +++
 date = 2023-02-01T08:00:00Z
 description = "Garlic has been used for medicinal purposes for thousands of years, beginning with ancient civilizations such as the Egyptian, Babylonian, and Greek. In traditional medicine, garlic was believed to have numerous health benefits, including..."
-draft = true
 include_footer = true
 thumbnail = "/uploads/garlic-dioscoride-vienne.png"
 title = "Garlic (Allium sativum) in Traditional and Modern Medicine"
