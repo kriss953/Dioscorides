@@ -5,8 +5,7 @@ sidebar: true
 sidebarlogo: logo-sm.png
 include_footer: true
 thumbnail: "/images/blog/dioscoride-preparation.jpg"
-description: In the dedication to Areius, Dioscorides explains his reasons for writing
-  the treatise on medicinal plants, and the method he followed...
+description: In the dedication to Areius, Dioscorides...
 twitterCard: "https://www.dioscorides.org/images/blog/dioscoride-preparation.jpg"
 ---
 ![alt text](/images/blog/dioscoride-preparation.jpg)
