@@ -113,17 +113,6 @@ ul.posts {
         grid-template-columns: 1fr;
         grid-gap: 30px; 
     }
-    .post-header {
-
-        
-    }
-    .thumbnail-container {
-        
-    }
-    .meta-text {
-
-        
-    }
     .copy-footer{
         padding: 0;
         font-size: 12px;
