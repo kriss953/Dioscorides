@@ -49,10 +49,8 @@ ul.posts {
     object-fit: cover;
     object-position: center;
 }
-.meta-text {
-}
 
-.title {
+.title-blog {
     font-family: Poppins, sans-serif !important;
     font-style: italic;
     font-size: 18px !important;
@@ -61,7 +59,7 @@ ul.posts {
     padding: 0 5px;
     margin-top: 10px ;
 }
-.title a{
+.title-blog a{
     font-size: 30px !important;
     font-weight: 200;
     color: #000 !important;
