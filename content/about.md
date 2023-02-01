@@ -14,6 +14,8 @@ Pedanius Dioscorides was a Greek who lived between 40 and 90 AD. He was a surgeo
 
 Several illustrated manuscripts exist of De Materia Medica. The most famous is the lavishly illustrated Dioscorides of Vienna, produced in Constantinople in 512 AD as a wedding gift for Anicia Giuliana, daughter of Emperor Flavius Olibanus. Densely illustrated Arabic copies date from the 12th and 13th centuries, while Greek manuscripts survive today in monasteries on Mount Athos. There is no direct evidence that the plants were painted by Dioscorides himself, and they are often drawn in detailed colors showing the entire plant, including the root system, flower and fruit.
 
+![](/uploads/matthioli.png)
+
 The most illustrious edition of De Materia Medica is that of Mattioli, first published in Venice in 1554. Before that time some thirty-five editions, translations and commentaries had been produced. After Mattioli's edition, so many more editions and translations were produced that De Materia Medica became the seminal work of modern European pharmacognosy.
 
 The consistency between later pharmacopoeias and De Materia Medica is remarkable, demonstrating that Dioscorides' work formed the basis of Western natural medicine throughout the Roman and medieval periods and almost into the modern period. The information contained in De Materia Medica is of historical interest and some of it is still valid today, more than 2,000 years later.
