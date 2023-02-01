@@ -1,7 +1,6 @@
 +++
 date = 2023-01-21T12:00:00Z
 description = "The use of white willow (Salix alba) in traditional..."
-draft = true
 include_footer = true
 thumbnail = "/uploads/dioscorides-salix.png"
 title = "White willow (Salix alba): the oldest anti-inflammatory"
