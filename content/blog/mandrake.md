@@ -7,7 +7,7 @@ title = "Mandrake: from myth to reality  "
 twitterCard = "https://www.dioscorides.org/uploads/dioscoride-mandrake.jpg"
 
 +++
-![](/uploads/dioscoride-mandrake.jpg)
+![](/uploads/mandrake-g40d868cc4_1280.jpg)
 
 Mandrake, also known as **Mandragora officinarum**, is a plant that has been used for centuries in traditional medicine and folklore. This mysterious plant has been the subject of many myths and legends, and has been revered for its supposed magical properties. But what do we really know about mandrake and its history? One of the most significant figures in the study of this plant is the ancient Greek physician, botanist, and author **Dioscorides**.
 
@@ -19,7 +19,7 @@ Dioscorides depicts the Mandrake as a human-shaped root with flower stalks formi
 
 Dioscorides considers the Mandrake **a true anaesthetic**. In fact, he describes the wine produced by the mandrake as suitable for relieving pain caused by surgery or cautery, and also says that mandrake wine enables deep sleep. Dioscorides first used the word anaesthesia as the absence of pain sensation as we understand it today. Traditionally, mandrake has been used to treat insomnia, dysuria, haemorrhoids, rheumatic pains, toothache, melancholy and depression and many other conditions.
 
-Mandrake is a perennial plant with a large, branching root, often anthropomorphic in appearance; the flower peduncles arise from the centre of the leaf rosette. Mandrake is fairly widespread in central-southern Italy and the islands. It contains several phytochemicals, among which some alkaloids (atropine, scopolamine and hyoscyamine -  which are toxic in large doses and can cause hallucinations), coumarins (umbelliferone and scopoletine), withanolides (salpichrolide C) and lipid compounds (beta-sitosterol) are pharmacologically active. 
+Mandrake is a perennial plant with a large, branching root, often anthropomorphic in appearance; the flower peduncles arise from the centre of the leaf rosette. Mandrake is fairly widespread in central-southern Italy and the islands. It contains several phytochemicals, among which some alkaloids (atropine, scopolamine and hyoscyamine -  which are toxic in large doses and can cause hallucinations), coumarins (umbelliferone and scopoletine), withanolides (salpichrolide C) and lipid compounds (beta-sitosterol) are pharmacologically active.
 
 Some of the active ingredients of this plant have been studied by modern pharmacology and have shown biologically active effects, including anticholinergic, antioxidant and anti-inflammatory effects. The study of the pharmacological activities of the compounds isolated from mandrake, particularly the alkaloids, supports the traditional use of this plant as a narcotic.
 
