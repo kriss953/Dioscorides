@@ -7,7 +7,7 @@ title = "Ginger: a multifunctional plant in traditional medicine "
 twitterCard = "https://www.dioscorides.org/uploads/zingiber.png"
 
 +++
-![](/uploads/zingiber.png)
+![](/uploads/ginger-g1a234acd6_1280.jpg)
 
 In his most important work of classical antiquity (De Materia Medica), Dioscorides regarded **ginger** as a warming and **digestive plant**. Interestingly, these properties correspond quite well to those of the ginger rhizome in traditional Chinese medicine.
 
