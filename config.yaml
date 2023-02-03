@@ -26,8 +26,6 @@ params:
     subtitle: is to promote the use of natural products that are effective in preserving
       and improving health and well-being, as well as in combating aging and health
       conditions.
-    buttontext: Explore
-    buttonlink: "#section1"
     image: homepage/dioscorides-home-page.jpg
   navbar:
   - title: Blog
@@ -49,11 +47,7 @@ params:
         url: "/blog/first/"
       - text: Second Blog Post
         url: "/blog/second/"
-  section1:
-    title: Our goal
-    subtitle: is to inform about ancient natural herbal remedies, reviewed from a
-      modern perspective in light of new discoveries in pharmacology and the molecular
-      mechanisms of the active ingredients contained in plants.
+
   section5: true
   footer:
     logo: logo-lg.png
