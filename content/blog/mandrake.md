@@ -2,7 +2,7 @@
 date = 2023-01-14T23:00:00Z
 description = "Dioscorides gave a detailed description of the..."
 include_footer = true
-thumbnail = "/uploads/dioscoride-mandrake.jpg"
+thumbnail = "/uploads/mandragora-4-3.png"
 title = "Mandrake: from myth to reality  "
 twitterCard = "https://www.dioscorides.org/uploads/dioscoride-mandrake.jpg"
 
