@@ -2,7 +2,7 @@
 date = 2023-01-29T08:00:00Z
 description = "In his most important work of classical antiquity..."
 include_footer = true
-thumbnail = "/uploads/zingiber.png"
+thumbnail = "/uploads/zingiber-4-3.png"
 title = "Ginger: a multifunctional plant in traditional medicine "
 twitterCard = "https://www.dioscorides.org/uploads/zingiber.png"
 
