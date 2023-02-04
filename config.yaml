@@ -23,8 +23,7 @@ params:
     - 600
   hero:
     title: Our mission
-    subtitle: is to promote the use of natural products that are effective in preserving
-      and improving health and well-being, as well as in combating aging and health
+    subtitle: is to promote the use of effective natural products to improve health and well-being and to counteract ageing and unhealthy conditions. Our aim is to provide information on ancient natural remedies, revised in a modern key, in the light of new findings in pharmacology and the molecular mechanisms of the active ingredients contained in plants.
       conditions.
     image: homepage/dioscorides-home-page.jpg
   navbar:
