@@ -5,7 +5,7 @@ draft = true
 include_footer = true
 thumbnail = ""
 title = "The onion: a phytotherapeutic agent in the kitchen"
-twitterCard = "https://www.dioscorides.org/images/blog/*"
+twitterCard = "https://www.dioscorides.org/uploads/xxx.png"
 
 +++
 The onion (Allium cepa L.) is a member of the Liliaceae family, which also includes garlic (Allium sativum L.). These two plants share many properties and health benefits. There are many types of onions: the long onion, the round onion, the red onion, the white onion, and so on. They all have a similar, characteristic flavor.
