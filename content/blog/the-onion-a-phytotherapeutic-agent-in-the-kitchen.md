@@ -8,17 +8,19 @@ title = "The onion: a phytotherapeutic agent in the kitchen"
 twitterCard = "https://www.dioscorides.org/uploads/Allium-cepa.png"
 
 +++
+![](/uploads/onion-2-tw.png)
+
 The onion (Allium cepa L.) is a member of the Liliaceae family, which also includes garlic (Allium sativum L.). These two plants share many properties and health benefits. There are many types of onions: the long onion, the round onion, the red onion, the white onion, and so on. They all have a similar, characteristic flavor.
 
-The Latins called the onion caepa. Dioscorides, a Greek physician and pharmacologist, wrote in his text "De Materia Medica" that onion was a useful medicinal plant with properties such as diuretic, antiseptic, and expectorant. He also described onion as a remedy for a number of ailments such as digestive disorders, respiratory problems and wounds.
+The Latins called the onion caepa. **Dioscorides**, a Greek physician and pharmacologist, wrote in his text "De Materia Medica" that onion was a useful medicinal plant with properties such as diuretic, antiseptic, and expectorant. He also described onion as a remedy for a number of ailments such as digestive disorders, respiratory problems and wounds.
 
 Onions have a long history of use in traditional medicine and have been used as a folk remedy for various ailments for thousands of years.
 
-In traditional Chinese medicine, onions are believed to have several health benefits. They were believed to have warming properties and help improve circulation, boost the immune system, remove toxins, and relieve symptoms such as coughs and sore throats. They are also believed to have antibacterial and anti-inflammatory properties.
+In **traditional Chinese medicine**, onions are believed to have several health benefits. They were believed to have warming properties and help improve circulation, boost the immune system, remove toxins, and relieve symptoms such as coughs and sore throats. They are also believed to have antibacterial and anti-inflammatory properties.
 
-In India, onions are highly valued for their medicinal properties. They were used in Ayurvedic medicine for their antibacterial and anti-inflammatory properties, and as a remedy for digestive and respiratory problems. Onions are considered to have warming and pungent qualities and are believed to help stimulate digestion, boost immunity, and clear respiratory infections. They are also used to relieve symptoms of coughs, colds and fevers. In Ayurvedic practice, onions may be used in various forms such as raw, cooked, or in combination with other herbs and spices.
+In India, onions are highly valued for their medicinal properties. They were used in **Ayurvedic medicine** for their antibacterial and anti-inflammatory properties, and as a remedy for digestive and respiratory problems. Onions are considered to have warming and pungent qualities and are believed to help stimulate digestion, boost immunity, and clear respiratory infections. They are also used to relieve symptoms of coughs, colds and fevers. In Ayurvedic practice, onions may be used in various forms such as raw, cooked, or in combination with other herbs and spices.
 
-Onions have a long history of use in traditional European medicine, particularly in the folklore of rural communities. They were commonly used to treat a variety of ailments such as coughs, colds, and respiratory infections. Onions were also used as a tonic to strengthen the immune system and improve circulation. In some cases, they were even applied topically to treat wounds and skin conditions. While these traditional uses of onions have not been extensively studied, some scientific evidence suggests that they may have antimicrobial and anti-inflammatory properties.
+Onions have a long history of use in **traditional European medicine**, particularly in the folklore of rural communities. They were commonly used to treat a variety of ailments such as coughs, colds, and respiratory infections. Onions were also used as a tonic to strengthen the immune system and improve circulation. In some cases, they were even applied topically to treat wounds and skin conditions. While these traditional uses of onions have not been extensively studied, some scientific evidence suggests that they may have antimicrobial and anti-inflammatory properties.
 
 Onions contain a variety of biologically active compounds that contribute to their health benefits, including:
 
