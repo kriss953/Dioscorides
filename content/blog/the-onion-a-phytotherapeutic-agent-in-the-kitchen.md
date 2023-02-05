@@ -33,12 +33,16 @@ Onions contain a variety of biologically active compounds that contribute to the
 * Cardiovascular health: Quercetin may help improve cardiovascular health by lowering blood pressure and improving blood flow.
 * Allergy relief: Quercetin has been shown to have anti-inflammatory and antihistamine effects, which may make it useful in the treatment of allergies.
 
+![](/uploads/allicin_500-2.png)
+
 2\. **Allicin** is an organosulfur compound whose potential health benefits include:
 
 * Antimicrobial: Allicin has been shown to have antimicrobial properties, meaning it may be effective against harmful bacteria, viruses, and fungi.
 * Anti-inflammatory: The anti-inflammatory effects of allicin may help reduce the risk of chronic diseases such as heart disease and cancer.
 * Cardiovascular health: Allicin may help improve cardiovascular health by lowering blood pressure and cholesterol levels.
 * Immune system support: Allicin has immune-boosting properties that may help protect against infections and other diseases.
+
+![](/uploads/vit-c-ascorbic_acid_500.png)
 
 3\. **Vitamin C**: Onions are a good source of vitamin C, a powerful antioxidant that helps boost the immune system and protect against cell damage.
 
