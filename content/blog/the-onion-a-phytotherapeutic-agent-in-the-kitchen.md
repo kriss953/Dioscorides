@@ -24,6 +24,8 @@ Onions have a long history of use in **traditional European medicine**, particul
 
 Onions contain a variety of biologically active compounds that contribute to their health benefits, including:
 
+![](/uploads/quercetin_2-500.png)
+
 1\. **Quercetin** is a flavonoid found in fruits, vegetables, and grains that is often sold as a dietary supplement. It is marketed as a dietary supplement because of its potential health benefits, including:
 
 * Antioxidant: Its antioxidant properties help protect cells from damage caused by harmful molecules known as free radicals.
