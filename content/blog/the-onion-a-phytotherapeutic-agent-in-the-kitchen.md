@@ -1,8 +1,9 @@
 +++
 date = 2023-02-05T08:00:00Z
 description = "The onion (Allium cepa L.) is a member of the Liliaceae family, which also includes garlic (Allium sativum L.). These two plants..."
+draft = true
 include_footer = true
-thumbnail = "/uploads/allium-cepa.png"
+thumbnail = "/uploads/cepa.png"
 title = "The onion: a phytotherapeutic agent in the kitchen"
 twitterCard = "https://www.dioscorides.org/uploads/Allium-cepa.png"
 
