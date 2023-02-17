@@ -4,7 +4,7 @@ description = "The onion (Allium cepa L.) is a member of the Liliaceae family, w
 include_footer = true
 thumbnail = "/uploads/cepa.png"
 title = "The onion: a phytotherapeutic agent in the kitchen"
-twitterCard = "https://www.dioscorides.org/uploads/Allium-cepa.png"
+twitterCard = "https://www.dioscorides.org/uploads/cepa.png"
 
 +++
 ![](/uploads/onion-2-tw.png)
