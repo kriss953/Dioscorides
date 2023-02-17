@@ -3,7 +3,7 @@ date = ""
 description = "The main cause of heavy legs is generally poor circulation in the lower limbs. Even ancient medicine associated the presence of varicose veins with heavy legs."
 draft = true
 include_footer = true
-thumbnail = ""
+thumbnail = "/uploads/vitis-ruscus.png"
 title = "Ancient remedies for heavy legs"
 twitterCard = "https://www.dioscorides.org/images/blog/*"
 
@@ -48,6 +48,6 @@ Today, several plants have been shown to have properties that promote venous cir
 
 The combination of **diosmin** (a glycosyloxyflavone or rutinoside, that is found mainly in citrus fruits) and **hesperidin** (a flavanone glycoside that is found in citrus and other fruits) has been shown to be very effective in the treatment of chronic venous insufficiency and haemorrhoids.
 
-Dioscorides recommends the use of a plant called butcher's broom (**Ruscus aculeatu**s) for treating "hemorrhoids, varicose veins, and swollen legs." The plant contains compounds that can help to constrict blood vessels and improve blood flow, which may alleviate symptoms of these conditions, including the feeling of heaviness in the legs. Ruscus aculeatus has been shown in clinical trials to be a safe and effective treatment for patients with chronic venous insufficiency. In fact, treatment with Ruscus has been associated with a significant reduction in clinical symptoms and a significant improvement in quality of life in patients with chronic venous disease.
+Dioscorides recommends the use of a plant called butcher's broom (**Ruscus aculeatus**) for treating "hemorrhoids, varicose veins, and swollen legs." The plant contains compounds that can help to constrict blood vessels and improve blood flow, which may alleviate symptoms of these conditions, including the feeling of heaviness in the legs. Ruscus aculeatus has been shown in clinical trials to be a safe and effective treatment for patients with chronic venous insufficiency. In fact, treatment with Ruscus has been associated with a significant reduction in clinical symptoms and a significant improvement in quality of life in patients with chronic venous disease.
 
 **Vitis vinifera**, the climbing vine that produces the grapes from which wine is made, has been linked to improved vascular function and relief from symptoms of heavy legs, probably due to its content of bioactive catechins and other antioxidants. Several studies have shown that treatment with red grape seed extract led to an improvement in symptoms in patients with vascular problems and in experimental models of impaired vascular function; in addition, grape seed extract may have hypotensive and heart rate lowering properties.
