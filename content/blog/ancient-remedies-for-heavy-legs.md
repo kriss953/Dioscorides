@@ -5,7 +5,7 @@ draft = true
 include_footer = true
 thumbnail = "/uploads/vitis-ruscus.png"
 title = "Ancient remedies for heavy legs"
-twitterCard = "https://www.dioscorides.org/images/blog/*"
+twitterCard = "https://www.dioscorides.org/uploads/vitis-ruscus.png"
 
 +++
 #### Heavy legs
