@@ -4,7 +4,7 @@ description = "Garlic has been used for medicinal purposes for thousands of..."
 include_footer = true
 thumbnail = "/uploads/allium-2.png"
 title = "Garlic (Allium sativum) in Traditional and Modern Medicine"
-twitterCard = "https://www.dioscorides.org/uploads/garlic-Dioscoride-Vienne.png"
+twitterCard = "https://www.dioscorides.org/uploads/allium-2.png"
 
 +++
 ![](/uploads/garlic-2-tw.jpg)
