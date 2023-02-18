@@ -12,6 +12,8 @@ twitterCard = "https://www.dioscorides.org/uploads/chili-pepper.png"
 
 Capsicum annuum is a species of chili pepper that belongs to the Solanaceae family. It is an annual plant that can grow up to 1 meter tall, and it produces small white or purple flowers that develop into fruit pods. There are **many different varieties of Capsicum annuum**, and they can vary widely in terms of their size, shape, color, and level of spiciness. Some common varieties of Capsicum annuum include:
 
+![Photo courtesy: https://twitter.com/massimo_tw](/uploads/chili-pepper-massimo-tw.jpg "Different types of chili pepper.")
+
 * Bell pepper: A mild variety of Capsicum annuum that is often used in cooking and has a distinctive bell-like shape.
 * Jalapeño: A medium-spicy variety of Capsicum annuum that is often used in Mexican cuisine.
 * Cayenne pepper: A spicy variety of Capsicum annuum that is often used as a spice or flavoring agent in cooking.
@@ -29,6 +31,8 @@ Chili peppers have been used in **traditional Indian medicine** for centuries. I
 While chili peppers were not known to **traditional Chinese medicine** before their introduction from the Americas, they have since been incorporated into traditional Chinese medicine and are now **recognized for their medicinal properties**. They are used for various medicinal purposes, including to improve circulation, relieve pain, and treat respiratory and digestive issues. Chili peppers are often used in combination with other herbs in traditional Chinese medicine formulas.
 
 #### Modern medicine
+
+![From Pubchem](/uploads/capsaicin_500.png "Capsaicin - chemical formula")
 
 There is scientific evidence of the potential health benefits of Capsicum annuum, commonly known as chili peppers. Here are some potential benefits:
 
