@@ -57,6 +57,8 @@ The main active constituents of adaptogenic plants can be divided into the follo
 * lignans (schizandrin B from **Schisandra chinensis**, eleutheroside E from Eleutherococcus senticosus),
 * oxylipins (polyhydroxylated polyunsaturated fatty acids).
 
+![](/uploads/schisandrin_b_500.png)
+
 Numerous clinical studies have demonstrated the beneficial effects of adaptogens on healthy subjects under stressful conditions, particularly on mental and physical performance under fatigue and **mental tension**. The prophylactic use of adaptogens in healthy subjects seems justified to prevent age-related diseases and to mitigate stress-related adverse effects.
 
 In laboratory models such as the fruit fly Drosophila melanogaster, the nematode Caenorhabditis elegans, and the yeast Saccharomyces cerevisiae, treatment with preparations of Rhodiola rosea, Schisandra chinensis, Eleutherococcus senticossus, Withania somnifera, and Panax ginseng **prolonged lifespan and increased survival under stress**. In other words, some **adaptogens promote longevity**, for now with the demonstration obtained in experimental models, which however could delineate an activity that may be also expressed in other species, including humans.
