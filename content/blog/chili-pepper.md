@@ -1,7 +1,6 @@
 +++
 date = 2023-02-26T08:00:00Z
 description = "While chili peppers were not known to traditional medicine before their introduction from the Americas, they have since been incorporated into..."
-draft = true
 include_footer = true
 thumbnail = "/uploads/chili-pepper-thumbnail.png"
 title = "Pepper Power: Unleashing the Health Benefits of Chili Peppers"
