@@ -27,6 +27,8 @@ According to **traditional Chinese medicine** (TCM), the most famous adaptogen i
 
 **In Ayurveda**, plants known as rasayana are used to rejuvenate and improve overall health. In addition to promoting health, increasing concentration, and improving memory and mood, an important effect of rasayana therapy is increased resistance to disease. The effect of Rasayana is not a specific pharmacological action, but rather a complex response that operates through a holistic mechanism of homeostatic regulation. The most commonly used piastas as adaptogens in Ayurveda are:
 
+![](/uploads/withania-andrographis.png)
+
 * **Ashwagandha (Withania somnifera** (L.) Dunal). Withania somnifera is used in Ayurveda to promote health and longevity, slow the aging process, revitalize the body, reduce anxiety, and create a sense of general well-being.
 * **Andrographis paniculata** (Burm. F.). Andrographis paniculata is used for many medicinal purposes, such as an effective antipyretic treatment for infectious diseases, urinary tract infections, dysentery, colitis, hepatitis, mouth ulcers, otitis, vaginitis, and pelvic inflammatory disease.
 * **Licorice** (Glycyrrhiza glabra L.). Licorice root (Glycyrrhiza sp.) is best known for its anti-inflammatory, antiviral, and antimicrobial activities.
