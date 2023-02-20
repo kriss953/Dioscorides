@@ -5,7 +5,7 @@ draft = true
 include_footer = true
 thumbnail = "/uploads/panax-rhodiola.png"
 title = "Adaptogenic Plants: Bridging the Gap Between Traditional and Modern Approaches to Health"
-twitterCard = "https://www.dioscorides.org/panax-rhodiola.png"
+twitterCard = "https://www.dioscorides.org/uploads/panax-rhodiola.png"
 
 +++
 #### Introduction
