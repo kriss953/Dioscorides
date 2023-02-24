@@ -10,7 +10,7 @@
   <div class="container">
     <div class="navbar-brand" style="align-items: center !important;">
       {{- if $navbarLogo}}
-      <a class="image is-1576by2218" style="padding-left: 12px;" href="{{ $navbarLogo.link }}">
+      <a class="image is-1576by2218 sm-image" style="padding-left: 12px;" href="{{ $navbarLogo.link }}">
         <img src="{{ printf "/images/%s" $navbarLogo.image | relURL }}" alt="" width="{{ $navbarLogoWidth }}" height="{{ $navbarLogoHeight }}">
       </a>
       {{- end}}
@@ -84,3 +84,11 @@
       </div>
   </div>
 </nav>
+
+<style>
+  @media (max-width: 576px) {
+    .sm-image {
+      width: 50% !important;
+    }
+  }
+</style>
