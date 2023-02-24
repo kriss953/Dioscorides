@@ -6176,8 +6176,8 @@ Navbar
   .navbar.is-fresh.no-shadow {
     box-shadow: none !important; }
   .navbar.is-fresh .navbar-burger {
-    width: 4rem;
-    height: 4rem; }
+    width: 7rem;
+    height: 5rem; }
   .navbar.is-fresh .navbar-brand {
     min-height: 4rem; }
     .navbar.is-fresh .navbar-brand img {
