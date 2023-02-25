@@ -10,11 +10,11 @@ twitterCard = "https://www.dioscorides.org/images/blog/*"
 +++
 #### Introduction
 
-Fermentation is a process in which bacteria, yeast, or other microorganisms break down carbohydrates and sugars in food, resulting in the production of lactic acid and other beneficial compounds. Fermented foods and plants have been used in traditional medicine as a way to ingest probiotics.
+Fermentation is a process in which enzymes found in bacteria, yeast, or other microorganisms break down organic molecules to produce metabolites. Fermentation occurs naturally and is often used to produce various products (such as foods and alcoholic beverages) by controlling microbial enzyme activity. Common examples of fermentation include that of grape juice to produce wine, that of milk to produce butter and various cheeses, etc. Different fermented foods are consumed around the world and it has been reported that between 5% to 40% of all food consumed by humans belongs to this group.
 
-In fact, many traditional cultures have used fermented foods for centuries as a way to preserve food and enhance its nutritional value. Some common examples of fermented foods are yogurt, kefir, sauerkraut, kimchi, miso, tempeh, and kombucha. These fermented foods are often rich in beneficial bacteria and yeasts, which can help promote a healthy gut microbiome and aid in digestion. There is some evidence that fermented foods, when consumed regularly as part of a balanced diet, may help improve overall health and well-being.
+Many traditional cultures have used fermented foods for centuries as a way to preserve food and enhance its nutritional value. Some common examples of fermented foods are yogurt, **kefir** (fermented milk), sauerkraut (fermented cabbage), kimchi (fermented spicy cabbage), miso (fermented soybeans), tempeh, and kombucha (fermented tea). These fermented foods are often rich in beneficial bacteria and yeasts, which can help promote a healthy gut microbiome and aid in digestion. There is some evidence that fermented foods, when consumed regularly as part of a balanced diet, may help improve overall health and well-being.
 
-In addition to **fermented foods**, traditional medicine has used fermented plants as a way to ingest **probiotics**. For example, some cultures use fermented herbs and roots to make tonics or teas that are believed to support gut health and boost the immune system.
+In addition to fermented foods, traditional medicine has used fermented plants as a way to ingest **probiotics**. For example, some cultures use fermented herbs and roots to make tonics or teas that are believed to **support gut health and boost the immune system**.
 
 Overall, fermented foods and plants can be a valuable source of probiotics and other beneficial compounds, and they continue to be used in traditional medicine and culinary practices around the world.
 
