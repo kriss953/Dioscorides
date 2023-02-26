@@ -12,7 +12,7 @@ twitterCard = "https://www.dioscorides.org/uploads/Garum_Mosaico-Pompei.png"
 
 Fermentation is a process in which enzymes found in bacteria, yeast, or other microorganisms break down organic molecules to produce metabolites. Fermentation occurs naturally and is often used to produce various products (such as foods and alcoholic beverages) by controlling microbial enzyme activity. Common examples of fermentation include that of grape juice to produce wine, that of milk to produce butter and various cheeses, etc. Different fermented foods are consumed around the world and it has been reported that between 5% to 40% of all food consumed by humans belongs to this group.
 
-Many traditional cultures have used fermented foods for centuries as a way to preserve food and enhance its nutritional value. 
+Many traditional cultures have used fermented foods for centuries as a way to preserve food and enhance its nutritional value.
 
 Fermented foods continue to play a role in modern medicine and are considered a valuable source of probiotics and other beneficial compounds. While probiotic supplements have become increasingly popular in recent years, fermented foods are a natural and convenient way to get probiotics and other beneficial compounds. In fact, some studies suggest that fermented foods may be even more effective at promoting gut health than probiotic supplements. This is because fermented foods not only provide beneficial bacteria, but also contain other nutrients and compounds that promote gut health, such as fiber, vitamins, and antioxidants. Some common examples of fermented foods are:
 
@@ -23,6 +23,8 @@ Fermented foods continue to play a role in modern medicine and are considered a 
 * Miso: Miso is a fermented soybean paste used in Japanese cuisine. Miso is rich in probiotics, antioxidants, and other beneficial compounds. Miso has been associated with improved gut health, reduced risk of heart disease and some cancers, and improved immune function.
 * Kombucha: Kombucha is a fermented tea drink that is rich in probiotics and antioxidants. Kombucha has been shown to improve gut health, strengthen the immune system, and reduce inflammation.
 
+![](/uploads/soy-bean-paste-soup-g37fd040de_640.jpg)
+
 There is some evidence that fermented foods, when consumed regularly as part of a balanced diet, may help improve overall health and well-being.
 
 In addition to fermented foods, traditional medicine has used fermented plants as a way to ingest probiotics. For example, some cultures use fermented herbs and roots to make tonics or teas that are believed to support gut health and boost the immune system.
@@ -31,7 +33,7 @@ Overall, fermented foods and plants can be a valuable source of probiotics and o
 
 #### Traditional medicine
 
-In traditional Greco-Roman medicine, it was common to use various fermented foods and plants as remedies for certain diseases. For example, the use of fermented milk, known as "oxygala," a sort of yogurt, was recommended for the treatment of digestive problems and fever. Dioscorides, in his work "De Materia Medica", describes the mixture of fermented flour, which effectively relieves corns on the soles of the feet, and garum (a fermented fish sauce used as a condiment in the kitchens of ancient Greece and Rome), which, when applied to the skin, was recommended for gangrenous ulcers of the cheeks, to heal dog bites, sometimes for ulcers (of the intestines), or to remove fluid that troubles the hips. 
+In traditional Greco-Roman medicine, it was common to use various fermented foods and plants as remedies for certain diseases. For example, the use of fermented milk, known as "oxygala," a sort of yogurt, was recommended for the treatment of digestive problems and fever. Dioscorides, in his work "De Materia Medica", describes the mixture of fermented flour, which effectively relieves corns on the soles of the feet, and garum (a fermented fish sauce used as a condiment in the kitchens of ancient Greece and Rome), which, when applied to the skin, was recommended for gangrenous ulcers of the cheeks, to heal dog bites, sometimes for ulcers (of the intestines), or to remove fluid that troubles the hips.
 
 Fermentation has a long history in Chinese culture, and fermented foods such as soy sauce, vinegar, and pickles are commonly used in Chinese cuisine. In Traditional Chinese Medicine (TCM), fermented foods and plants are used as remedies for certain diseases; in fact, fermented foods and plants are believed to have various health benefits. For example, fermented soy products such as tofu and tempeh are said to tone the spleen and stomach, improve digestion, and regulate blood sugar levels. Fermented black garlic is believed to have anti-inflammatory properties and is often used to treat cardiovascular disease and high blood pressure. Other fermented foods and plants used in TCM include fermented tea (pu-erh tea), fermented medicinal mushrooms, and fermented herbs such as ginseng and astragalus. These remedies are believed to help strengthen the immune system, improve digestion, and treat a variety of diseases.
 
@@ -53,6 +55,6 @@ Probiotics are a combination of live and beneficial microorganisms that live nat
 
 Recent studies have shown that consumption of traditional fermented foods and beverages benefits our health and counteracts the risk and severity of some common non-communicable diseases such as cardiovascular disease, type 2 diabetes, obesity, some neurological problems, etc.
 
-The composition of the gut microbiota has also been shown to play an important role in certain diseases. An imbalance of microorganisms in the gut microbiota has been found to be associated with metabolic disorders and can be modulated and improved by the use of probiotics. 
+The composition of the gut microbiota has also been shown to play an important role in certain diseases. An imbalance of microorganisms in the gut microbiota has been found to be associated with metabolic disorders and can be modulated and improved by the use of probiotics.
 
 Overall, fermented foods are associated with a number of health benefits, including improved gut health, reduced inflammation, and lower risk of certain diseases. Incorporating a variety of fermented foods into your diet can be a great way to support overall health and wellness.
