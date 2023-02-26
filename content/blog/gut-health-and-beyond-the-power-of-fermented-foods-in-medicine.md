@@ -5,7 +5,7 @@ draft = true
 include_footer = true
 thumbnail = "/uploads/garum_mosaico-pompei.png"
 title = "Gut Health and Beyond: The Power of Fermented Foods in Medicine"
-twitterCard = "https://www.dioscorides.org/Garum_Mosaico-Pompei.png"
+twitterCard = "https://www.dioscorides.org/uploads/Garum_Mosaico-Pompei.png"
 
 +++
 #### Introduction
