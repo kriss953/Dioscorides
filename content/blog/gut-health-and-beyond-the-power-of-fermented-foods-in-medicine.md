@@ -3,9 +3,9 @@ date = 2023-03-12T08:00:00Z
 description = ""
 draft = true
 include_footer = true
-thumbnail = ""
+thumbnail = "/uploads/garum_mosaico-pompei.png"
 title = "Gut Health and Beyond: The Power of Fermented Foods in Medicine"
-twitterCard = "https://www.dioscorides.org/images/blog/*"
+twitterCard = "https://www.dioscorides.org/Garum_Mosaico-Pompei.png"
 
 +++
 #### Introduction
