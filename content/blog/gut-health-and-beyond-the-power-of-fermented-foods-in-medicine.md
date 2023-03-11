@@ -50,9 +50,9 @@ There are several fermented herbs and roots that have been used in traditional m
 
 These are just a few examples of fermented herbs and roots used in traditional medicine to make tonics or teas that are believed to promote intestinal health and strengthen the immune system.
 
-**Modern medicine**
+#### **Modern medicine**
 
-Probiotics are a combination of live and beneficial microorganisms that live naturally in our bodies. In fact, there are two types of microorganisms in our bodies: good and bad. **Probiotics are made up of good bacteria** that help keep the body healthy and functioning. Probiotics are part of a larger population of bacteria and other microorganisms in our bodies that live mainly in the gut, but also in other organs. This is the **microbiome**, a community of diverse organisms that work together to keep our bodies healthy. 
+Probiotics are a combination of live and beneficial microorganisms that live naturally in our bodies. In fact, there are two types of microorganisms in our bodies: good and bad. **Probiotics are made up of good bacteria** that help keep the body healthy and functioning. Probiotics are part of a larger population of bacteria and other microorganisms in our bodies that live mainly in the gut, but also in other organs. This is the **microbiome**, a community of diverse organisms that work together to keep our bodies healthy.
 
 The microbiome is made up of trillions of microorganisms that live in our bodies. These microbes are a combination of bacteria, yeast, and other microorganisms. Everyone's microbiome is unique, even identical twins have different microbiomes. Modern science has shown that the microbiome changes with certain conditions or diseases and can be modulated by diet and lifestyle. Fermented foods and probiotics sold as **supplements** provide the good bacteria that help our bodies stay healthy and fit.
 
@@ -62,6 +62,6 @@ Recent studies have shown that consumption of traditional fermented foods and be
 
 The composition of the **gut microbiota** has also been shown to play an important role in certain diseases. An imbalance of microorganisms in the gut microbiota has been found to be associated with metabolic disorders and can be modulated and improved by the use of probiotics.
 
-Overall, fermented foods are associated with a number of **health benefits**, including improved **gut health, reduced inflammation, and lower risk of certain diseases**. 
+Overall, fermented foods are associated with a number of **health benefits**, including improved **gut health, reduced inflammation, and lower risk of certain diseases**.
 
 Incorporating a variety of fermented foods into your diet can be a great way to support overall health and wellness.
